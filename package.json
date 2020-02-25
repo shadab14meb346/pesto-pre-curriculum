@@ -1,0 +1,23 @@
+{
+  "name": "basic-test-framework",
+  "version": "1.0.0",
+  "description": "pesto-pre-curriculum",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shadab14meb346:14meb346@github.com/shadab14meb346/pesto-pre-curriculum.git"
+  },
+  "author": "Shadab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadab14meb346/pesto-pre-curriculum/issues"
+  },
+  "homepage": "https://github.com/shadab14meb346/pesto-pre-curriculum#readme"
+}
